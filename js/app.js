@@ -156,6 +156,7 @@ function win() {
     container.appendChild(myHead);
     let myDiv = document.createElement("div");
     container.appendChild(myDiv);
+    myDiv.className = "myDiv";
     let i;
     for (i=0; i<starsCount; i++) {
         let iStar = document.createElement("i");
