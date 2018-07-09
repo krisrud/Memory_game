@@ -118,11 +118,16 @@ h1 {
     cursor: pointer;
 }
 
-myDiv {
+.myDiv {
     margin: 0;
     padding: 0;
     display: inline-block;
-    margin: 0 5px 0 0;
+    margin: 20px 5px 0 0;
+}
+
+.timeDiv {
+    display: inline-block;
+    margin: 0 5px 0 35px;
 }
 
 /*
