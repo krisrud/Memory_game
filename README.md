@@ -10,3 +10,7 @@ This is a classic memory game
 * if the cards match, both cards stay flipped over; if the cards do not match, both cards are flipped face down.
 
 * the game ends once all cards have been correctly matched.
+
+## How to play
+
+For playing the game click the [link](https://krisrud.github.io/Memory_game/)
