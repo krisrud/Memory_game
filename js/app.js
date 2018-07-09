@@ -57,6 +57,7 @@ function cardShuffle() {
 function timer() {
     let timeDiv = document.createElement("div");
     scorePanel.appendChild(timeDiv);
+    timeDiv.className = "timeDiv";
     timeText = document.createTextNode("");
     timeDiv.appendChild(timeText);
 }
