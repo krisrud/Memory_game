@@ -145,9 +145,3 @@ myDiv {
         height: 20vw;
     }
 }
-
-@media screen and (min-width: 700px) {
-    .score-panel {
-		font-size: 25px;
-    }
-}
