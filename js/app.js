@@ -12,8 +12,6 @@ let cardNames = ["fa fa-diamond", "fa fa-diamond", "fa fa-paper-plane-o", "fa fa
     "fa fa-anchor", "fa fa-bolt", "fa fa-bolt", "fa fa-cube", "fa fa-cube", "fa fa-leaf", "fa fa-leaf", "fa fa-bicycle",
     "fa fa-bicycle", "fa fa-bomb", "fa fa-bomb"];
 
-//let array = document.getElementsByClassName("card");
-
 let matchPairs = 0;
 let starsCount = 3;
 let countCard = 0;
