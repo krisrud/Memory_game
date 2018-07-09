@@ -124,3 +124,30 @@ myDiv {
     display: inline-block;
     margin: 0 5px 0 0;
 }
+
+/*
+ * Responsive patterns
+ */
+ 
+ @media screen and (max-width: 700px) {
+	.score-panel {
+        width: 90%;
+    }
+
+    .deck {
+        width: 95%;
+        padding: 16px;
+        min-height: 100vw;
+    }
+
+    .deck .card {
+        width: 20vw;
+        height: 20vw;
+    }
+}
+
+@media screen and (min-width: 700px) {
+    .score-panel {
+		font-size: 25px;
+    }
+}
