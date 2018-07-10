@@ -1,5 +1,6 @@
 # Memory Game
-This is a classic memory game
+This is a classic memory game.
+
 
 ## Rules
 
@@ -11,6 +12,16 @@ This is a classic memory game
 
 * the game ends once all cards have been correctly matched.
 
+
 ## How to play
 
 For playing the game click the [link](https://krisrud.github.io/Memory_game/)
+
+
+## Game dependencies
+
+For developing the game I've used:
+
+* [starter code](https://github.com/udacity/fend-project-memory-game)
+
+* external libraries: JQuery
